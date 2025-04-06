@@ -62,5 +62,5 @@
   },
   "prettier": "./.prettierrc.js",
   "type": "module",
-  "packageManager": "pnpm@10.4.1"
+  "packageManager": "pnpm@9.8.0"
 }
